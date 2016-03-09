@@ -4,8 +4,15 @@
         <description><![CDATA[Center Core]]></description>
         <link>https://thegrid.ai/center-core/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 13:28:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/center-core/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Programmers Are Not Paid In Proportion To Their Productivity]]></title>
+            <description><![CDATA[<article><h1>Why Programmers Are Not Paid In Proportion To Their Productivity</h1><p>The most productive programmers are orders of magnitude more productive than average programmers. But salaries usually fall within a fairly small range in any company. Even across the entire profession, salaries don't vary that much. If some programmers are 10x more productive than others, why aren't they paid 10x as much?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5842e70b5a26cc5e2b383227cb4b73de4a71773.jpg"></article>]]></description>
+            <link>http://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity/</link>
+            <guid isPermaLink="false">b7ce6f03-eeb0-4b3a-a4c4-dc9802598525</guid>
+            <pubDate>Wed, 09 Mar 2016 13:28:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Agonia elefantului]]></title>
             <description><![CDATA[<article><h1>Agonia elefantului</h1><p>"Asistam la primul schimb brutal de generatii in interiorul unui sistem putred de putere, care include politica in combinatie cu presa si afacerile plus zona sulfuroasa a serviciilor. Transferul de putere se face, exact cum spune Vantu: fara mama, fara tata, fara prizonieri.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bcfa631b0aa80ab4749e255f3dc2da5e0b9c932.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>LIGHTSABER ESCAPE: An experience built for Chrome</h1><p>Wield your lightsaber to escape the First Order in this Chrome Experiment, inspired by Star Wars: The Force Awakens.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae36f02e91e2b6f896568f137fc53495159c1d2f.png"></article>]]></description>
             <link>https://lightsaber.withgoogle.com/</link>
             <guid isPermaLink="false">e6450bbe-ea89-4345-8fdc-da0b9a8e377f</guid>
-            <pubDate>Wed, 09 Mar 2016 13:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deșteaptă-te, Române! Pe tine!]]></title>
-            <description><![CDATA[<article><h1>Deșteaptă-te, Române! Pe tine!</h1><p>În viață sunt momente când simți istoria. Se întâmplă uneori evenimente despre care știi că vor rămâne scrise în cărțile de istorie pentru că pur și simplu înseamnă mult prea mult. Este însă dureros să constați direct și brutal adevărul că istoria se scrie cu sângele nevinovaților și al eroilor fără voie....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eb1f74030d7a3ea9b472d1e33c28c17fb9e6483.jpg"></article>]]></description>
-            <link>http://mihaialexandrucraciun.construim-romania.ro/2015/11/06/desteapta-te-romane-pe-tine/</link>
-            <guid isPermaLink="false">32347561-a98b-4f90-ae01-fb8347b4bac3</guid>
             <pubDate>Wed, 09 Mar 2016 13:24:06 GMT</pubDate>
         </item>
     </channel>
