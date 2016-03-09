@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Center Core]]></title>
         <description><![CDATA[Center Core]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/center-core/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:24:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 13:24:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/center-core/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deșteaptă-te, Române! Pe tine!]]></title>
+            <description><![CDATA[<article><h1>Deșteaptă-te, Române! Pe tine!</h1><p>În viață sunt momente când simți istoria. Se întâmplă uneori evenimente despre care știi că vor rămâne scrise în cărțile de istorie pentru că pur și simplu înseamnă mult prea mult. Este însă dureros să constați direct și brutal adevărul că istoria se scrie cu sângele nevinovaților și al eroilor fără voie....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eb1f74030d7a3ea9b472d1e33c28c17fb9e6483.jpg"></article>]]></description>
+            <link>http://mihaialexandrucraciun.construim-romania.ro/2015/11/06/desteapta-te-romane-pe-tine/</link>
+            <guid isPermaLink="false">32347561-a98b-4f90-ae01-fb8347b4bac3</guid>
+            <pubDate>Wed, 09 Mar 2016 13:24:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[55 de situatii in care Ponta a fost prins cu minciuna de cand este premier. Si doua bonusuri]]></title>
             <description><![CDATA[<article><h1>55 de situatii in care Ponta a fost prins cu minciuna de cand este premier. Si doua bonusuri</h1><p>"La dvs, minciuna are personalitate. Mintiti numai pe cont propriu, nu inspirat de vreo mare minciuna colectiva. Mintiti dupa cum va bate vantul minciunii, dupa cum cad zarurile in ziua aceea, dupa ce potlogarie sau minciuna anterioara trebuie sa carpiti".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40d65db0864f457b12974740df743a7b5af45a8.jpg"></article>]]></description>
