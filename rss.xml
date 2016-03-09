@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Center Core]]></title>
+        <description><![CDATA[Center Core]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 13:24:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[55 de situatii in care Ponta a fost prins cu minciuna de cand este premier. Si doua bonusuri]]></title>
+            <description><![CDATA[<article><h1>55 de situatii in care Ponta a fost prins cu minciuna de cand este premier. Si doua bonusuri</h1><p>"La dvs, minciuna are personalitate. Mintiti numai pe cont propriu, nu inspirat de vreo mare minciuna colectiva. Mintiti dupa cum va bate vantul minciunii, dupa cum cad zarurile in ziua aceea, dupa ce potlogarie sau minciuna anterioara trebuie sa carpiti".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a40d65db0864f457b12974740df743a7b5af45a8.jpg"></article>]]></description>
+            <link>http://www.hotnews.ro/stiri-esential-18535408-cele-55-situatii-care-ponta-fost-prins-minciuna-cand-este-premier-pana-acum.htm</link>
+            <guid isPermaLink="false">4dc9bcb7-13c1-4a5d-9e88-699c6ecf0531</guid>
+            <pubDate>Wed, 09 Mar 2016 13:24:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
